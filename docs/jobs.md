@@ -10,8 +10,8 @@
 | Location | JUD. IAŞI, COM. COTNARI,  , CORP C28. CF 60835 |
 | Website | [https://www.cotnari.ro](https://www.cotnari.ro) |
 | Careers | [https://www.bestjobs.eu/company-profile/cramele-cotnari](https://www.bestjobs.eu/company-profile/cramele-cotnari), [https://www.ejobs.ro/company/cotnari/304021](https://www.ejobs.ro/company/cotnari/304021) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
 ## Current Job Listings (0)
 
-_Generated: 2026-11-04T13:28:08.641Z_
+_Generated: 2026-11-05T13:42:30.437Z_
